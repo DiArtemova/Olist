@@ -1,0 +1,2 @@
+-- Olist SQL Marketplace Analysis
+-- Schema review queries will be added here.
