@@ -1,5 +1,5 @@
 # SQL-Olist
-Analysis of Olist e-commerce orders to evaluate business
+SQL analysis and interactive Power BI dashboards exploring Olist’s sales performance and delivery reliability. All monetary values are expressed in Brazilian reals (BRL).
 
 
 ## Repository structure
